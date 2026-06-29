@@ -109,3 +109,14 @@ hermes skills install https://raw.githubusercontent.com/wuzimuws/socratic-learni
 ## GitHub
 
 https://github.com/wuzimuws/socratic-learning-system
+
+
+---
+
+## 权利声明
+
+本 skill（苏格拉底式 AI 学习系统）由抖音账号「豆父骑士」原创开发。
+保留所有权利。允许个人学习使用。未经授权，禁止用于商业目的。
+
+- **作者：** 豆父骑士（抖音）
+- **版本：** 1.8.0
